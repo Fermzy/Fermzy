@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Fermzy 👋
 
-<!--
-**Fermzy/Fermzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **Agentic AI & Software Developer** | Building autonomous, task-oriented agents using **Google Antigravity** and LLM orchestration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+* **Agentic Frameworks:** Google Antigravity SDK (`google-antigravity`), LangGraph
+* **Protocols & Capabilities:** Model Context Protocol (MCP), Structured Function Calling, Streaming Reasoning
+* **Backend & Tools:** Python (`asyncio`), FastAPI, Docker, ChromaDB
+
+---
+
+### 🚀 Projects in Progress
+- [ ] Custom MCP Tool Server for Antigravity
+- [ ] Real-time Streaming Agent CLI (Thoughts & Tool Calls)
+- [ ] Autonomous Codebase Navigator with `google-antigravity`
+
